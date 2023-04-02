@@ -1,0 +1,70 @@
+html {
+  background-color: #FFE3E1;
+  padding: 0;
+}
+
+.card h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #FF9494;
+  font-size: 40px;
+}
+
+.card-content {
+  width: 360px;
+  margin: 20px auto;
+  border: 6px solid #FFD1D1;
+  background-color: #FFF5E4;
+}
+
+
+.rmit-logo {
+  width: 100px;
+  left: 10px;
+  margin: 10px;
+}
+
+.photo {
+  display: block;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.content {
+  text-align: center;
+}
+
+.name {
+  font-size: 36px;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  color: #FF9494;
+  margin: 10px 0 0 0;
+}
+
+.about p {
+  font-family: 'Patrick Hand', cursive;
+  padding: 0 10px;
+}
+
+.major {
+  margin: 6px 0;
+}
+
+.social-media {
+  padding: 10px 0;
+}
+
+.social-media a {
+  text-decoration: none;
+  padding: 10px 6px;
+}
+
+.fa-brands {
+  font-size: 30px;
+  color: #FF9494;
+}
+
+
